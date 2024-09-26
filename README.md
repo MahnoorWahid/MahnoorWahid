@@ -1,4 +1,4 @@
-![logo](https://github.com/MahnoorWahid/MahnoorWahid/blob/main/Banner.png)
+![logo](https://github.com/MahnoorWahid/MahnoorWahid/blob/main/Banner.jpeg)
 <h1 align="center">Hi 👋, I'm Mahnoor</h1>
 <h3 align="center">Project Manager Intern skilled in utilizing Jira, Asana and Trello for efficient project management.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
