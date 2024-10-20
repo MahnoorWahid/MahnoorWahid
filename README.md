@@ -1,13 +1,13 @@
 ![logo](https://github.com/MahnoorWahid/MahnoorWahid/blob/main/Banner.jpeg)
 <h1 align="center">Hi 👋, I'm Mahnoor</h1>
-<h3 align="center">Project Manager Intern skilled in utilizing Jira, Asana and Trello for efficient project management.</h3>
+<h3 align="center">Project Manager Intern and passionate Software Manual Tester skilled in utilizing Jira, Asana and Trello for efficient software testing and project management.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahnoorwahid&label=Profile%20views&color=0e75b6&style=flat" alt="mahnoorwahid" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahnoorwahid" alt="mahnoorwahid" /></a> </p>
 
-- 🌱 I’m currently learning **Project Management**
+- 🌱 I’m currently learning **Project Management and Software Manual Testing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MahnoorWahid](https://github.com/MahnoorWahid)
 
@@ -39,7 +39,7 @@
 </p>
 
 <h3 align="left">About Me:</h3>
-<p align="left">Fresh graduate Computer Scientist works as a Project Manager Intern. Eager to explore these fields, equipped with foundational knowledge and a strong desire to learn more. Excited to gain hands-on experience, passionate about continuous learning in a dynamic professional environment.</p>
+<p align="left">Fresh graduate Computer Scientist works as a Project Manager Intern.I'm passionate about project management and Software Quality Assurance, with a focus on delivering high quality software solutions.</p>
 
 <h3 align="left">Experience:</h3>
 <h4 align="left">Project Manager Intern (DotClick) September 2024-Present</h4>
@@ -50,6 +50,7 @@
 <li>Communicated with international clients.</li>
 <li>Tracked project milestones and deliverables.</li>
 <li>Documented meeting minutes and action items.</li>
+<li>Conducted manual testing, ensuring software reliability and functionality.</li>
 </ul>
 <h4 align="left">Final Year Project Lead (TELECLINIC-Skin) August 2023-May 2024</h4>
 <ul>
