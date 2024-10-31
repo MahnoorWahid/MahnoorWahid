@@ -42,7 +42,7 @@
 <p align="left">Fresh graduate Computer Scientist works as a Project Manager Intern.I'm passionate about project management and Software Quality Assurance, with a focus on delivering high quality software solutions.</p>
 
 <h3 align="left">Experience:</h3>
-<h4 align="left">Project Manager Intern (DotClick) September 2024-October</h4>
+<h4 align="left">Project Manager Intern (DotClick) September 2024-October 2024</h4>
 <ul>
 <li>Supported project planning and execution.</li>
 <li>Coordinated team activities and deadlines.</li>
