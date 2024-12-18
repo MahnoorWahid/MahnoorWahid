@@ -42,6 +42,15 @@
 <p align="left">Fresh graduate Computer Scientist works as a Project Manager Intern.I'm passionate about project management and Software Quality Assurance, with a focus on delivering high quality software solutions.</p>
 
 <h3 align="left">Experience:</h3>
+<h4 align="left">Project Manager Intern (Wiga Tech Solutions) December 2024-Present</h4>
+<ul>
+<li>Help plan and organize project schedules.</li>
+<li>Assist in preparing reports and maintaining project documentation.</li>
+<li>Track the progress of projects and identify potential risks.</li>
+<li>Communicated with international clients.</li>
+<li>Work closely with different teams to ensure smooth project execution.</li>
+<li>Conducted testing, ensuring software reliability and functionality.</li>
+</ul>
 <h4 align="left">Project Manager Intern (DotClick) September 2024-October 2024</h4>
 <ul>
 <li>Supported project planning and execution.</li>
